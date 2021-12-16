@@ -1,0 +1,32 @@
+.note{
+    font-size: 15px;
+    color: hotpink;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: purple;
+    bottom: 0;
+    width: 100%;
+    background-color: lavender;
+    line-height: 3;
+    text-align: center;
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: grey;
+}
+body{
+    background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS8f5aAwF-iEtzHBmfmjk10_AfAJVmNQZLZA&usqp=CAU");
+}
